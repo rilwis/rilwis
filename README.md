@@ -2,10 +2,9 @@
 
 👨‍💻 I'm the founder of:
 
-- 🔥 [Meta Box](https://metabox.io) - a WordPress custom fields framework with more than 600.000 active installs, and
+- 🔥 [Meta Box](https://metabox.io) - a WordPress custom fields framework with 700.000+ active installs, and
+- 🍀 [Slim SEO](https://wpslimseo.com) - a fast and lightweight SEO plugin for WordPress with 10.000+ active installs,
 - 🏅 [GretaThemes](https://gretathemes.com) - a premium theme shop for WordPress, and
-- 👨‍💻 [TitanWeb](https://titanweb.vn) - a brand for creating websites and CRM in Vietnam, and
-- 🍀 [eLightUp](https://elightup.com) - the company that owns all of our brands
 
 🖥️ I focus on web technologies. WordPress takes a big part in my heart, but I'm learning more about ReactJS and Laravel. I'd like to use them more in future projects.
 
